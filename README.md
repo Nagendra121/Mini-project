@@ -1,2 +1,2 @@
 # Mini-project
-its MIni project
+its Thali.com
